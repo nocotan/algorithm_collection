@@ -1,1 +1,2 @@
+from algorithm_collection.sort.bubble_sort import bubble_sort
 from algorithm_collection.sort.insertion_sort import insertion_sort
