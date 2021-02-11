@@ -1,0 +1,1 @@
+from algorithm_collection.sort.insertion_sort import insertion_sort
