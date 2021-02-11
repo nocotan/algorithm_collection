@@ -1,0 +1,1 @@
+from algorithm_collection.search.linear_search import linear_search
