@@ -13,4 +13,4 @@
 ## Mathematics
 * [Fibonacci Numbers](./algorithm_collection/mathematics/fibonacci_numbers.py)
 * [Fibonacci Numbers (DP)](./algorithm_collection/mathematics/fibonacci_numbers_dp.py)
-* [Fibonacci Numbers (Storage Optimized)](./algorithm_collection/mathematics/fibonacci_numbers_storage_optimized.py)
+* [Fibonacci Numbers (Space Optimized)](./algorithm_collection/mathematics/fibonacci_numbers_space_optimized.py)
