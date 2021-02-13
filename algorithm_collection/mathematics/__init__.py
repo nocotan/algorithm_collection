@@ -1,2 +1,3 @@
 from algorithm_collection.mathematics.fibonacci_numbers import fibonacci_numbers
 from algorithm_collection.mathematics.fibonacci_numbers_dp import fibonacci_numbers_dp
+from algorithm_collection.mathematics.fibonacci_numbers_space_optimized import fibonacci_numbers_space_optimized
