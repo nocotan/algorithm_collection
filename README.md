@@ -11,6 +11,6 @@
 * [Linear Search with Sentinel](./algorithm_collection/search/linear_search_with_sentinel.py)
 
 ## Mathematics
-* [Fibonacci Numbers](./algorithm_collection/search/fibonacci_numbers.py)
-* [Fibonacci Numbers (DP)](./algorithm_collection/search/fibonacci_numbers_dp.py)
-* [Fibonacci Numbers (Storage Optimized)](./algorithm_collection/search/fibonacci_numbers_storage_optimized.py)
+* [Fibonacci Numbers](./algorithm_collection/mathematics/fibonacci_numbers.py)
+* [Fibonacci Numbers (DP)](./algorithm_collection/mathematics/fibonacci_numbers_dp.py)
+* [Fibonacci Numbers (Storage Optimized)](./algorithm_collection/mathematics/fibonacci_numbers_storage_optimized.py)
