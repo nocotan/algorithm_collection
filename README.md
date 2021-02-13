@@ -1,5 +1,7 @@
 # Python Algorithm Collection
 
+![pytest](https://github.com/nocotan/algorithm_collection_py/workflows/pytest/badge.svg)
+
 ## Sort
 * [Bubble Sort](./algorithm_collection/sort/bubble_sort.py)
 * [Insertion Sort](./algorithm_collection/sort/insertion_sort.py)
