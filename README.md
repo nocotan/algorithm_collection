@@ -18,6 +18,7 @@
 * [Fibonacci Numbers (DP)](./algorithm_collection/mathematics/fibonacci_numbers_dp.py)
 * [Fibonacci Numbers (Space Optimized)](./algorithm_collection/mathematics/fibonacci_numbers_space_optimized.py)
 * [Fibonacci Numbers (Analytical)](./algorithm_collection/mathematics/fibonacci_numbers_analytical.py)
+* [Prime Factores](./algorithm_collection/mathematics/prime_factors.py)
 
 ## Data Structures
 
