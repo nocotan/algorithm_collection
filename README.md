@@ -10,6 +10,7 @@
 * [Insertion Sort](./algorithm_collection/sort/insertion_sort.py)
 * [Selection Sort](./algorithm_collection/sort/selection_sort.py)
 * [Bogo Sort](./algorithm_collection/sort/bogo_sort.py)
+* [Sleep Sort](./algorithm_collection/sort/sleep_sort.py)
 
 ### Search
 * [Linear Search](./algorithm_collection/search/linear_search.py)
