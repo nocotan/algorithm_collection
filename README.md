@@ -27,3 +27,6 @@
 
 ### Matrix
 * [Product](./data_structure_collection/matrix/product.py)
+
+## Distances
+* [Euclidean Distance](./distance_collection/euclidean_distance.py)
