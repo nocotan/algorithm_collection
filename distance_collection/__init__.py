@@ -1,1 +1,2 @@
 from distance_collection.euclidean_distance import euclidean_distance
+from distance_collection.cosine_distance import cosine_distance
