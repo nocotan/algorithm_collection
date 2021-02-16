@@ -30,3 +30,4 @@
 
 ## Distances
 * [Euclidean Distance](./distance_collection/euclidean_distance.py)
+* [Cosine Distance](./distance_collection/cosine_distance.py)
