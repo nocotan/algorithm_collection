@@ -24,6 +24,7 @@
 * [Prime Factores](./algorithm_collection/mathematics/prime_factors.py)
 * [Greatest Common Divisor](./algorithm_collection/mathematics/gcd.py)
 * [Least Common Multiple](./algorithm_collection/mathematics/lcm.py)
+* [Factorial](./algorithm_collection/mathematics/factorial.py)
 
 ## Data Structures
 

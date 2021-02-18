@@ -8,3 +8,5 @@ from algorithm_collection.mathematics.prime_factors import prime_factors
 
 from algorithm_collection.mathematics.gcd import gcd
 from algorithm_collection.mathematics.lcm import lcm
+
+from algorithm_collection.mathematics.factorial import factorial
