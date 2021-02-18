@@ -27,6 +27,7 @@
 * [x] [Sieve of Eratosthenes](./algorithm_collection/mathematics/sieve_of_eratosthenes.py)
 * [x] [Sieve of Eratosthenes (Optimized)](./algorithm_collection/mathematics/sieve_of_eratosthenes_optimized.py)
 * [x] [Sieve of Sundaram](./algorithm_collection/mathematics/sieve_of_sundaram.py)
+* [ ] Sieve of Atkin
 * [x] [Greatest Common Divisor](./algorithm_collection/mathematics/gcd.py)
 * [x] [Least Common Multiple](./algorithm_collection/mathematics/lcm.py)
 * [x] [Factorial](./algorithm_collection/mathematics/factorial.py)
@@ -43,3 +44,7 @@
 * [x] [Euclidean Distance](./distance_collection/euclidean_distance.py)
 * [x] [Cosine Distance](./distance_collection/cosine_distance.py)
 * [x] [Canberra Distance](./distance_collection/canberra_distance.py)
+* [ ] Kulsinski Distance
+* [ ] Jaccard Distance
+* [ ] Hamming Distance
+* [ ] Dice Distance
