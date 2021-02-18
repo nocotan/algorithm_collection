@@ -23,6 +23,7 @@
 * [Fibonacci Numbers (Analytical)](./algorithm_collection/mathematics/fibonacci_numbers_analytical.py)
 * [Prime Factores](./algorithm_collection/mathematics/prime_factors.py)
 * [Sieve of Eratosthenes](./algorithm_collection/mathematics/sieve_of_eratosthenes.py)
+* [Sieve of Eratosthenes (Optimized)](./algorithm_collection/mathematics/sieve_of_eratosthenes_optimized.py)
 * [Greatest Common Divisor](./algorithm_collection/mathematics/gcd.py)
 * [Least Common Multiple](./algorithm_collection/mathematics/lcm.py)
 * [Factorial](./algorithm_collection/mathematics/factorial.py)
