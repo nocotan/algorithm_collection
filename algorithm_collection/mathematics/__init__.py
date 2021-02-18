@@ -6,7 +6,7 @@ from algorithm_collection.mathematics.fibonacci_numbers_analytical import fibona
 from algorithm_collection.mathematics.prime_factors import prime_factors
 from algorithm_collection.mathematics.sieve_of_eratosthenes import sieve_of_eratosthenes
 from algorithm_collection.mathematics.sieve_of_eratosthenes_optimized import sieve_of_eratosthenes_optimized
-
+from algorithm_collection.mathematics.sieve_of_sundaram import sieve_of_sundaram
 
 from algorithm_collection.mathematics.gcd import gcd
 from algorithm_collection.mathematics.lcm import lcm
