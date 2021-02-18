@@ -34,6 +34,7 @@
 ## Data Structures
 
 * [Stack](./data_structure_collection/stack.py)
+* [Queue](./data_structure_collection/queue.py)
 
 ### Matrix
 * [Product](./data_structure_collection/matrix/product.py)

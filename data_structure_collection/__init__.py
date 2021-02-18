@@ -1,1 +1,2 @@
 from data_structure_collection.stack import Stack
+from data_structure_collection.queue import Queue
