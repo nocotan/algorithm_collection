@@ -15,6 +15,7 @@
 ### Search
 * [Linear Search](./algorithm_collection/search/linear_search.py)
 * [Linear Search with Sentinel](./algorithm_collection/search/linear_search_with_sentinel.py)
+* [Jump Search](./algorithm_collection/search/jump_search.py)
 
 ### Mathematics
 * [Fibonacci Numbers](./algorithm_collection/mathematics/fibonacci_numbers.py)
