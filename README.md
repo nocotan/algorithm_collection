@@ -6,40 +6,40 @@
 ## Algorithms
 
 ### Sort
-* [Bubble Sort](./algorithm_collection/sort/bubble_sort.py)
-* [Insertion Sort](./algorithm_collection/sort/insertion_sort.py)
-* [Selection Sort](./algorithm_collection/sort/selection_sort.py)
-* [Bogo Sort](./algorithm_collection/sort/bogo_sort.py)
-* [Sleep Sort](./algorithm_collection/sort/sleep_sort.py)
+* [x] [Bubble Sort](./algorithm_collection/sort/bubble_sort.py)
+* [x] [Insertion Sort](./algorithm_collection/sort/insertion_sort.py)
+* [x] [Selection Sort](./algorithm_collection/sort/selection_sort.py)
+* [x] [Bogo Sort](./algorithm_collection/sort/bogo_sort.py)
+* [x] [Sleep Sort](./algorithm_collection/sort/sleep_sort.py)
 
 ### Search
-* [Linear Search](./algorithm_collection/search/linear_search.py)
-* [Linear Search with Sentinel](./algorithm_collection/search/linear_search_with_sentinel.py)
-* [Binary Search](./algorithm_collection/search/binary_search.py)
-* [Jump Search](./algorithm_collection/search/jump_search.py)
+* [x] [Linear Search](./algorithm_collection/search/linear_search.py)
+* [x] [Linear Search with Sentinel](./algorithm_collection/search/linear_search_with_sentinel.py)
+* [x] [Binary Search](./algorithm_collection/search/binary_search.py)
+* [x] [Jump Search](./algorithm_collection/search/jump_search.py)
 
 ### Mathematics
-* [Fibonacci Numbers](./algorithm_collection/mathematics/fibonacci_numbers.py)
-* [Fibonacci Numbers (DP)](./algorithm_collection/mathematics/fibonacci_numbers_dp.py)
-* [Fibonacci Numbers (Space Optimized)](./algorithm_collection/mathematics/fibonacci_numbers_space_optimized.py)
-* [Fibonacci Numbers (Analytical)](./algorithm_collection/mathematics/fibonacci_numbers_analytical.py)
-* [Prime Factores](./algorithm_collection/mathematics/prime_factors.py)
-* [Sieve of Eratosthenes](./algorithm_collection/mathematics/sieve_of_eratosthenes.py)
-* [Sieve of Eratosthenes (Optimized)](./algorithm_collection/mathematics/sieve_of_eratosthenes_optimized.py)
-* [Sieve of Sundaram](./algorithm_collection/mathematics/sieve_of_sundaram.py)
-* [Greatest Common Divisor](./algorithm_collection/mathematics/gcd.py)
-* [Least Common Multiple](./algorithm_collection/mathematics/lcm.py)
-* [Factorial](./algorithm_collection/mathematics/factorial.py)
+* [x] [Fibonacci Numbers](./algorithm_collection/mathematics/fibonacci_numbers.py)
+* [x] [Fibonacci Numbers (DP)](./algorithm_collection/mathematics/fibonacci_numbers_dp.py)
+* [x] [Fibonacci Numbers (Space Optimized)](./algorithm_collection/mathematics/fibonacci_numbers_space_optimized.py)
+* [x] [Fibonacci Numbers (Analytical)](./algorithm_collection/mathematics/fibonacci_numbers_analytical.py)
+* [x] [Prime Factores](./algorithm_collection/mathematics/prime_factors.py)
+* [x] [Sieve of Eratosthenes](./algorithm_collection/mathematics/sieve_of_eratosthenes.py)
+* [x] [Sieve of Eratosthenes (Optimized)](./algorithm_collection/mathematics/sieve_of_eratosthenes_optimized.py)
+* [x] [Sieve of Sundaram](./algorithm_collection/mathematics/sieve_of_sundaram.py)
+* [x] [Greatest Common Divisor](./algorithm_collection/mathematics/gcd.py)
+* [x] [Least Common Multiple](./algorithm_collection/mathematics/lcm.py)
+* [x] [Factorial](./algorithm_collection/mathematics/factorial.py)
 
 ## Data Structures
 
-* [Stack](./data_structure_collection/stack.py)
-* [Queue](./data_structure_collection/queue.py)
+* [x] [Stack](./data_structure_collection/stack.py)
+* [x] [Queue](./data_structure_collection/queue.py)
 
 ### Matrix
-* [Product](./data_structure_collection/matrix/product.py)
+* [x] [Product](./data_structure_collection/matrix/product.py)
 
 ## Distances
-* [Euclidean Distance](./distance_collection/euclidean_distance.py)
-* [Cosine Distance](./distance_collection/cosine_distance.py)
-* [Canberra Distance](./distance_collection/canberra_distance.py)
+* [x] [Euclidean Distance](./distance_collection/euclidean_distance.py)
+* [x] [Cosine Distance](./distance_collection/cosine_distance.py)
+* [x] [Canberra Distance](./distance_collection/canberra_distance.py)
