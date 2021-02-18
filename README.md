@@ -15,6 +15,7 @@
 ### Search
 * [Linear Search](./algorithm_collection/search/linear_search.py)
 * [Linear Search with Sentinel](./algorithm_collection/search/linear_search_with_sentinel.py)
+* [Binary Search](./algorithm_collection/search/binary_search.py)
 * [Jump Search](./algorithm_collection/search/jump_search.py)
 
 ### Mathematics
