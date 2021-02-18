@@ -33,6 +33,8 @@
 
 ## Data Structures
 
+* [Stack](./data_structure_collection/stack.py)
+
 ### Matrix
 * [Product](./data_structure_collection/matrix/product.py)
 
