@@ -23,6 +23,7 @@
 * [Fibonacci Numbers (Analytical)](./algorithm_collection/mathematics/fibonacci_numbers_analytical.py)
 * [Prime Factores](./algorithm_collection/mathematics/prime_factors.py)
 * [Greatest Common Divisor](./algorithm_collection/mathematics/gcd.py)
+* [Least Common Multiple](./algorithm_collection/mathematics/lcm.py)
 
 ## Data Structures
 
