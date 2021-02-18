@@ -4,3 +4,6 @@ from algorithm_collection.mathematics.fibonacci_numbers_space_optimized import f
 from algorithm_collection.mathematics.fibonacci_numbers_analytical import fibonacci_numbers_analytical
 
 from algorithm_collection.mathematics.prime_factors import prime_factors
+
+
+from algorithm_collection.mathematics.gcd import gcd
