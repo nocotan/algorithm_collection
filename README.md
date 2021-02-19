@@ -24,7 +24,7 @@
 * [ ] QuickSort on Singly Linked List
 * [ ] QuickSort on Doubly Linked List
 * [ ] 3-Way QuickSort
-* [ ] Counting Sort
+* [x] [Counting Sort](./algorithm_collection/sort/counting_sort.py)
 * [ ] Radix Sort
 * [ ] Bucket Sort
 * [ ] Brick Sort
