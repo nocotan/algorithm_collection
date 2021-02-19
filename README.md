@@ -7,8 +7,40 @@
 
 ### Sort
 * [x] [Bubble Sort](./algorithm_collection/sort/bubble_sort.py)
+* [ ] Recursive Bubble Sort
 * [x] [Insertion Sort](./algorithm_collection/sort/insertion_sort.py)
+* [ ] Recursive Insertion Sort
+* [ ] Binary Insertion Sort
 * [x] [Selection Sort](./algorithm_collection/sort/selection_sort.py)
+* [ ] Shell Sort
+* [ ] Heap Sort
+* [ ] Merge Sort
+* [ ] Iterative Merge Sort
+* [ ] Merge Sort for Linked Lists
+* [ ] Merge Sort for Doubly Linked List
+* [ ] 3-way Merge Sort
+* [ ] Quick Sort
+* [ ] Iterative Quick Sort
+* [ ] QuickSort on Singly Linked List
+* [ ] QuickSort on Doubly Linked List
+* [ ] 3-Way QuickSort
+* [ ] Counting Sort
+* [ ] Radix Sort
+* [ ] Bucket Sort
+* [ ] Brick Sort
+* [ ] Gnome Sort
+* [ ] Stooge Sort
+* [ ] Tag Sort
+* [ ] Tree Sort
+* [ ] Cartesian Tree Sort
+* [ ] Pancake Sort
+* [ ] Bitonic Sort
+* [ ] Strand Sort
+* [ ] Cocktail Sort
+* [ ] Cycle Sort
+* [ ] Pigeonhole Sort
+* [ ] Comb Sort
+* [ ] TimSort
 * [x] [Bogo Sort](./algorithm_collection/sort/bogo_sort.py)
 * [x] [Sleep Sort](./algorithm_collection/sort/sleep_sort.py)
 
@@ -16,12 +48,19 @@
 * [x] [Linear Search](./algorithm_collection/search/linear_search.py)
 * [x] [Linear Search with Sentinel](./algorithm_collection/search/linear_search_with_sentinel.py)
 * [x] [Binary Search](./algorithm_collection/search/binary_search.py)
+* [ ] Ubiquitous Binary Search
+* [ ] Interpolation Search
+* [ ] Exponential Search
+* [ ] Sublist Search
 * [x] [Jump Search](./algorithm_collection/search/jump_search.py)
+* [ ] Fibonacci Search
 
 ### Mathematics
 * [x] [Fibonacci Numbers](./algorithm_collection/mathematics/fibonacci_numbers.py)
 * [x] [Fibonacci Numbers (DP)](./algorithm_collection/mathematics/fibonacci_numbers_dp.py)
+* [ ] Fibonacci Numbers (Optimized)
 * [x] [Fibonacci Numbers (Space Optimized)](./algorithm_collection/mathematics/fibonacci_numbers_space_optimized.py)
+* [ ] Fibonacci Numbers with Matrix
 * [x] [Fibonacci Numbers (Analytical)](./algorithm_collection/mathematics/fibonacci_numbers_analytical.py)
 * [x] [Prime Factores](./algorithm_collection/mathematics/prime_factors.py)
 * [x] [Sieve of Eratosthenes](./algorithm_collection/mathematics/sieve_of_eratosthenes.py)
