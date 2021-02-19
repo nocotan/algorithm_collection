@@ -81,8 +81,17 @@
 
 ## Distances
 * [x] [Euclidean Distance](./distance_collection/euclidean_distance.py)
+* [ ] Standardized Euclidean Distance
+* [ ] Squared Euclidean Distance
 * [x] [Cosine Distance](./distance_collection/cosine_distance.py)
 * [x] [Canberra Distance](./distance_collection/canberra_distance.py)
+* [ ] Braycurtis Distance
+* [ ] Chebyshev Distance 
+* [ ] Cityblock Distance 
+* [ ] Correlation Distance 
+* [ ] Mahalanobis Distance
+* [ ] Minkowski Distance
+* [ ] Weighted Minkowski Distance
 * [ ] Kulsinski Distance
 * [ ] Jaccard Distance
 * [ ] Hamming Distance
