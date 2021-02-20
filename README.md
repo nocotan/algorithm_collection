@@ -50,7 +50,7 @@
 * [x] [Binary Search](./algorithm_collection/search/binary_search.py)
 * [ ] Ubiquitous Binary Search
 * [x] [Interpolation Search](./algorithm_collection/search/interpolation_search.py)
-* [ ] Exponential Search
+* [x] [Exponential Search](./algorithm_collection/search/exponential_search.py)
 * [ ] Sublist Search
 * [x] [Jump Search](./algorithm_collection/search/jump_search.py)
 * [ ] Fibonacci Search
