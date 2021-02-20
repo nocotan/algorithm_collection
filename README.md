@@ -12,7 +12,7 @@
 * [ ] Recursive Insertion Sort
 * [ ] Binary Insertion Sort
 * [x] [Selection Sort](./algorithm_collection/sort/selection_sort.py)
-* [ ] Shell Sort
+* [x] [Shell Sort](./algorithm_collection/sort/shell_sort.py)
 * [ ] Heap Sort
 * [x] [Merge Sort](./algorithm_collection/sort/merge_sort.py)
 * [x] [Iterative Merge Sort](./algorithm_collection/sort/iterative_merge_sort.py)
