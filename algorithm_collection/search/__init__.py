@@ -4,3 +4,4 @@ from algorithm_collection.search.jump_search import jump_search
 from algorithm_collection.search.binary_search import binary_search
 from algorithm_collection.search.exponential_search import exponential_search
 from algorithm_collection.search.interpolation_search import interpolation_search
+from algorithm_collection.search.fibonacci_search import fibonacci_search

@@ -53,7 +53,7 @@
 * [x] [Exponential Search](./algorithm_collection/search/exponential_search.py)
 * [ ] Sublist Search
 * [x] [Jump Search](./algorithm_collection/search/jump_search.py)
-* [ ] Fibonacci Search
+* [x] [Fibonacci Search](./algorithm_collection/search/fibonacci_search.py)
 
 ### Mathematics
 * [x] [Fibonacci Numbers](./algorithm_collection/mathematics/fibonacci_numbers.py)
