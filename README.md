@@ -14,7 +14,7 @@
 * [x] [Selection Sort](./algorithm_collection/sort/selection_sort.py)
 * [ ] Shell Sort
 * [ ] Heap Sort
-* [ ] Merge Sort
+* [x] [Merge Sort](./algorithm_collection/sort/merge_sort.py)
 * [ ] Iterative Merge Sort
 * [ ] Merge Sort for Linked Lists
 * [ ] Merge Sort for Doubly Linked List
