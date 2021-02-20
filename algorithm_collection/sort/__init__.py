@@ -5,3 +5,4 @@ from algorithm_collection.sort.bogo_sort import bogo_sort
 from algorithm_collection.sort.sleep_sort import sleep_sort
 from algorithm_collection.sort.counting_sort import counting_sort
 from algorithm_collection.sort.merge_sort import merge_sort
+from algorithm_collection.sort.iterative_merge_sort import iterative_merge_sort
