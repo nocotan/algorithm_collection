@@ -49,7 +49,7 @@
 * [x] [Linear Search with Sentinel](./algorithm_collection/search/linear_search_with_sentinel.py)
 * [x] [Binary Search](./algorithm_collection/search/binary_search.py)
 * [ ] Ubiquitous Binary Search
-* [ ] Interpolation Search
+* [x] [Interpolation Search](./algorithm_collection/search/interpolation_search.py)
 * [ ] Exponential Search
 * [ ] Sublist Search
 * [x] [Jump Search](./algorithm_collection/search/jump_search.py)
