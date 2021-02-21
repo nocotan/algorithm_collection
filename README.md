@@ -29,7 +29,7 @@
 * [ ] Bucket Sort
 * [ ] Brick Sort
 * [ ] Gnome Sort
-* [ ] Stooge Sort
+* [x] [Stooge Sort](./algorithm_collection/sort/stooge_sort.py)
 * [ ] Tag Sort
 * [ ] Tree Sort
 * [ ] Cartesian Tree Sort
