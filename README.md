@@ -75,6 +75,8 @@
 
 * [x] [Stack](./data_structure_collection/stack.py)
 * [x] [Queue](./data_structure_collection/queue.py)
+* [ ] Directed Graph
+* [ ] Undirected Graph
 
 ### Matrix
 * [x] [Product](./data_structure_collection/matrix/product.py)
