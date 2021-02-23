@@ -75,6 +75,12 @@
 * [x] [Greatest Common Divisor](./algorithm_collection/mathematics/gcd.py)
 * [x] [Least Common Multiple](./algorithm_collection/mathematics/lcm.py)
 * [x] [Factorial](./algorithm_collection/mathematics/factorial.py)
+* [ ] Trinomial Triangle
+* [ ] Leibniz Harmonic Triangle
+* [ ] Hosoya’s Triangle
+* [ ] Find Perimeter of a triangle
+* [ ] Triangular Numbers
+* [ ] Pascal’s Triangle
 
 ## Data Structures
 
