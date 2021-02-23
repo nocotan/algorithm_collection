@@ -81,6 +81,20 @@
 * [ ] Find Perimeter of a triangle
 * [ ] Triangular Numbers
 * [ ] Pascal’s Triangle
+* [ ] Find x and y satisfying ax + by = n
+* [ ] Number of non-negative integral solutions of a + b + c = n
+* [ ] Find smallest values of x and y such that ax – by = 0
+* [ ] Discriminant Value
+* [ ] Dot Product of two vectors
+* [ ] Cross Product of two vectors
+* [ ] Iterated Logarithm
+* [ ] Correlation Coefficient
+* [ ] Muller Method
+* [ ] Roots of Unity
+* [ ] Roots of quadratic equation
+* [ ] Square root of an integer
+* [ ] Pythagorean Triplets
+* [ ] Exponential
 
 ## Data Structures
 
