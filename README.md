@@ -69,7 +69,7 @@ The repository is a collection of open-source implementation of a variety of alg
 * [x] [Fibonacci Numbers (DP)](./algorithm_collection/mathematics/fibonacci_numbers_dp.py)
 * [x] [Fibonacci Numbers (Optimized)](./algorithm_collection/mathematics/fibonacci_numbers_optimized.py)
 * [x] [Fibonacci Numbers (Space Optimized)](./algorithm_collection/mathematics/fibonacci_numbers_space_optimized.py)
-* [ ] Fibonacci Numbers with Matrix
+* [x] [Fibonacci Numbers with Matrix](./algorithm_collection/mathematics/fibonacci_numbers_matrix.py)
 * [x] [Fibonacci Numbers (Analytical)](./algorithm_collection/mathematics/fibonacci_numbers_analytical.py)
 * [x] [Prime Factores](./algorithm_collection/mathematics/prime_factors.py)
 * [x] [Sieve of Eratosthenes](./algorithm_collection/mathematics/sieve_of_eratosthenes.py)
