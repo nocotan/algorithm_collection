@@ -14,3 +14,4 @@ from algorithm_collection.mathematics.gcd import gcd
 from algorithm_collection.mathematics.lcm import lcm
 
 from algorithm_collection.mathematics.factorial import factorial
+from algorithm_collection.mathematics.exponential_taylor_approximation import exponential_taylor_approximation

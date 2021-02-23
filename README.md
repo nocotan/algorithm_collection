@@ -98,7 +98,7 @@ The repository is a collection of open-source implementation of a variety of alg
 * [ ] Roots of quadratic equation
 * [ ] Square root of an integer
 * [ ] Pythagorean Triplets
-* [ ] Exponential
+* [x] [Taylor Approximation of Exponential](./algorithm_collection/mathematics/exponential_taylor_approximation.py)
 
 ## Data Structures
 
