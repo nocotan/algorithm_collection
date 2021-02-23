@@ -3,6 +3,10 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![pytest](https://github.com/nocotan/algorithm_collection_py/workflows/pytest/badge.svg)
 
+Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in Python for educational purposes.
+
+The repository is a collection of open-source implementation of a variety of algorithms implemented in Python and licensed under Apache-2.0 License. The algorithms span a variety of topics from computer science, mathematics and statistics, data science, machine learning, engineering, etc.. The implementations and the associated documentation are meant to provide a learning resource for educators and students. Hence, one may find more than one implementation for the same objective but using a different algorithm strategies and optimizations.
+
 ## Algorithms
 
 ### Sort
