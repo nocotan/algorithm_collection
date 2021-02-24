@@ -88,7 +88,7 @@ The repository is a collection of open-source implementation of a variety of alg
 * [ ] Find x and y satisfying ax + by = n
 * [ ] Number of non-negative integral solutions of a + b + c = n
 * [ ] Find smallest values of x and y such that ax – by = 0
-* [ ] Discriminant Value
+* [x] [Discriminant Value](./algorithm_collection/mathematics/discriminant.py)
 * [ ] Dot Product of two vectors
 * [ ] Cross Product of two vectors
 * [ ] Iterated Logarithm
