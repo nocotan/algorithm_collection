@@ -23,7 +23,7 @@ The repository is a collection of open-source implementation of a variety of alg
 * [ ] Merge Sort for Linked Lists
 * [ ] Merge Sort for Doubly Linked List
 * [ ] 3-way Merge Sort
-* [ ] Quick Sort
+* [x] [Quick Sort](./algorithm_collection/sort/quick_sort.py)
 * [ ] Iterative Quick Sort
 * [ ] QuickSort on Singly Linked List
 * [ ] QuickSort on Doubly Linked List
