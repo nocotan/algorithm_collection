@@ -91,7 +91,7 @@ The repository is a collection of open-source implementation of a variety of alg
 * [x] [Discriminant Value](./algorithm_collection/mathematics/discriminant.py)
 * [ ] Dot Product of two vectors
 * [ ] Cross Product of two vectors
-* [ ] Iterated Logarithm
+* [x] [Iterated Logarithm](./algorithm_collection/mathematics/iterative_logarithm.py)
 * [x] [Correlation Coefficient](./algorithm_collection/mathematics/correlation_coefficient.py)
 * [ ] Muller Method
 * [ ] Roots of Unity
