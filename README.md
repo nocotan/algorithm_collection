@@ -92,7 +92,7 @@ The repository is a collection of open-source implementation of a variety of alg
 * [ ] Dot Product of two vectors
 * [ ] Cross Product of two vectors
 * [ ] Iterated Logarithm
-* [ ] Correlation Coefficient
+* [x] [Correlation Coefficient](./algorithm_collection/mathematics/correlation_coefficient.py)
 * [ ] Muller Method
 * [ ] Roots of Unity
 * [ ] Roots of quadratic equation

@@ -16,3 +16,5 @@ from algorithm_collection.mathematics.lcm import lcm
 from algorithm_collection.mathematics.discriminant import discriminant
 from algorithm_collection.mathematics.factorial import factorial
 from algorithm_collection.mathematics.exponential_taylor_approximation import exponential_taylor_approximation
+
+from algorithm_collection.mathematics.correlation_coefficient import correlation_coefficient
