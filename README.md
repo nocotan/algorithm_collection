@@ -31,7 +31,7 @@ The repository is a collection of open-source implementation of a variety of alg
 * [x] [Counting Sort](./algorithm_collection/sort/counting_sort.py)
 * [ ] Radix Sort
 * [ ] Bucket Sort
-* [ ] Brick Sort
+* [x] [Brick Sort](./algorithm_collection/sort/brick_sort.py)
 * [ ] Gnome Sort
 * [x] [Stooge Sort](./algorithm_collection/sort/stooge_sort.py)
 * [ ] Tag Sort
@@ -117,9 +117,9 @@ The repository is a collection of open-source implementation of a variety of alg
 * [x] [Cosine Distance](./distance_collection/cosine_distance.py)
 * [x] [Canberra Distance](./distance_collection/canberra_distance.py)
 * [ ] Braycurtis Distance
-* [ ] Chebyshev Distance 
-* [ ] Cityblock Distance 
-* [ ] Correlation Distance 
+* [ ] Chebyshev Distance
+* [ ] Cityblock Distance
+* [ ] Correlation Distance
 * [ ] Mahalanobis Distance
 * [ ] Minkowski Distance
 * [ ] Weighted Minkowski Distance
