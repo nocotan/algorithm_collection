@@ -43,7 +43,7 @@ The repository is a collection of open-source implementation of a variety of alg
 * [ ] Cocktail Sort
 * [ ] Cycle Sort
 * [ ] Pigeonhole Sort
-* [ ] Comb Sort
+* [x] [Comb Sort](./algorithm_collection/sort/comb_sort.py)
 * [ ] TimSort
 * [x] [Bogo Sort](./algorithm_collection/sort/bogo_sort.py)
 * [x] [Sleep Sort](./algorithm_collection/sort/sleep_sort.py)

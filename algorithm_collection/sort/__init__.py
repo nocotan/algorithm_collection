@@ -10,3 +10,4 @@ from algorithm_collection.sort.iterative_merge_sort import iterative_merge_sort
 from algorithm_collection.sort.stooge_sort import stooge_sort
 from algorithm_collection.sort.quick_sort import quick_sort
 from algorithm_collection.sort.brick_sort import brick_sort
+from algorithm_collection.sort.comb_sort import comb_sort
