@@ -72,6 +72,7 @@ The repository is a collection of open-source implementation of a variety of alg
 * [ ] Number of rectangles in N*M grid
 * [ ] Area of a Circular Sector
 * [x] Arc length from given Angle
+* [x] Circumference of a circle
 
 ### Mathematics
 * [x] [Fibonacci Numbers](./algorithm_collection/mathematics/fibonacci_numbers.py)
