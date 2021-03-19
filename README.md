@@ -71,8 +71,8 @@ The repository is a collection of open-source implementation of a variety of alg
 * [ ] Find if two rectangles overlap
 * [ ] Number of rectangles in N*M grid
 * [ ] Area of a Circular Sector
-* [x] Arc length from given Angle
-* [x] Circumference of a circle
+* [x] [Arc length from given Angle](./algorithm_collection_py/blob/main/algorithm_collection/geometry/arc_length.py)
+* [x] [Circumference of a circle](.//algorithm_collection_py/blob/main/algorithm_collection/geometry/circumference.py)
 
 ### Mathematics
 * [x] [Fibonacci Numbers](./algorithm_collection/mathematics/fibonacci_numbers.py)
