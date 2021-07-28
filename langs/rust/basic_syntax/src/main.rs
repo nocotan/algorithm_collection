@@ -20,4 +20,18 @@ fn main() {
     a[2] = b[2];
 
     println!("{:?}", &a[1..3]);
+
+    // struct
+    #[derive(Debug)]
+    struct Person {
+        name: String,
+        age: u32,
+    }
+
+    let p = Person {
+        name: String::from("John"),
+        age: 8,
+    };
+
+    println!("{:?}", p);
 }
