@@ -5,4 +5,11 @@ fn main() {
     let s3: String = s2.to_string(); // &str -> String
 
     println!("{}", s3);
+
+    // tuple
+    let mut t = (1, "2");
+    t.0 = 2;
+    t.1 = "3";
+
+    println!("{:?}", t);
 }
