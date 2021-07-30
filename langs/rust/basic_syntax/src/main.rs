@@ -34,4 +34,20 @@ fn main() {
     };
 
     println!("{:?}", p);
+
+    // enum
+    #[derive(Debug)]
+    enum Event {
+        Quit,
+        KeyDown(u8),
+        MouseDown { x: i32, y: i32 },
+    }
+
+    let e1 = Event::Quit;
+    let e2 = Event::KeyDown (1);
+    let e3 = Event::MouseDown { x: 10, y: 10};
+
+    println!("{:?}", e1);
+    println!("{:?}", e2);
+    println!("{:?}", e3);
 }
