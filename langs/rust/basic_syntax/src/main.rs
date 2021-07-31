@@ -78,4 +78,13 @@ fn main() {
     let result: Result<i32, String> = Err("error".to_string());
     let next_result = result.and_then(func);
     println!("{:?}", next_result);
+
+    fn error_handling(result: Result<i32, String>) -> Result<i32, String> {
+        let code = result?;
+        println!("code: {}", code);
+        Ok(100)
+    }
+    let result: Result<i32, String> = Err("error".to_string());
+    let next_result = error_handling(result);
+    println!("{:?}", next_result);
 }
