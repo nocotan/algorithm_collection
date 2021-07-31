@@ -50,4 +50,41 @@ fn main() {
     println!("{:?}", e1);
     println!("{:?}", e2);
     println!("{:?}", e3);
+
+    // result
+    let result: Result<i32, String> = Ok(200);
+    match result {
+        Ok(code) => println!("code: {}", code),
+        Err(err) => println!("Err: {}", err),
+    };
+
+    let result: Result<i32, String> = Ok(200);
+    if let Ok(code) = result {
+        println!("code: {}", code);
+    }
+
+    let result: Result<i32, String> = Ok(200);
+    println!("code: {}", result.unwrap_or(-1));
+    let result: Result<i32, String> = Err("error".to_string());
+    println!("code: {}", result.unwrap_or(-1));
+
+    fn func(code: i32) -> Result<i32, String> {
+        println!("code: {}", code);
+        Ok(100)
+    }
+    let result: Result<i32, String> = Ok(200);
+    let next_result = result.and_then(func);
+    println!("{:?}", next_result);
+    let result: Result<i32, String> = Err("error".to_string());
+    let next_result = result.and_then(func);
+    println!("{:?}", next_result);
+
+    fn error_handling(result: Result<i32, String>) -> Result<i32, String> {
+        let code = result?;
+        println!("code: {}", code);
+        Ok(100)
+    }
+    let result: Result<i32, String> = Err("error".to_string());
+    let next_result = error_handling(result);
+    println!("{:?}", next_result);
 }
