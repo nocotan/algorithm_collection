@@ -96,4 +96,9 @@ fn main() {
 
     let v = vec![1, 2, 3, 4, 5];
     println!("{}", v[0]);
+
+    let v = vec![1, 2, 3, 4, 5];
+    for element in &v {
+        println!("{}", element);
+    }
 }
