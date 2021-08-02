@@ -87,4 +87,10 @@ fn main() {
     let result: Result<i32, String> = Err("error".to_string());
     let next_result = error_handling(result);
     println!("{:?}", next_result);
+
+    // Vec
+    let v1 = vec![1, 2, 3, 4, 5];
+    let v2 = vec![0; 5];
+    println!("{:?}", v1);
+    println!("{:?}", v2);
 }
