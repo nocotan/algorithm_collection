@@ -101,4 +101,12 @@ fn main() {
     for element in &v {
         println!("{}", element);
     }
+
+    // Box
+    fn print(s: Box<[u8]>) {
+        println!("{:?}", s);
+    }
+
+    let byte_array = [b'h', b'e', b'1', b'1', b'o'];
+    print(Box::new(byte_array));
 }
