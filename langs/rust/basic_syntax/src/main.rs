@@ -109,4 +109,11 @@ fn main() {
 
     let byte_array = [b'h', b'e', b'1', b'1', b'o'];
     print(Box::new(byte_array));
+
+    // let mut
+    let immut_val = 10;
+    let mut mut_val = 20;
+    mut_val += immut_val;
+    println!("{}", immut_val);
+    println!("{}", mut_val);
 }
